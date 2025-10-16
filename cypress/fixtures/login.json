@@ -1,0 +1,31 @@
+{
+  "login": {
+    "email": "devlopteste@gmail.com",
+    "password": "Teste1234"
+  },
+  "incorrectEmail": {
+    "email": "emailNaoCadastrado@gmail.com",
+    "password": "Teste6"
+  },
+  "emailInvalid": {
+    "email": "tes#$%@dfg@gmail.com",
+    "password": "Teste1234"
+  },
+
+  "sendEmail": {
+    "names": "Vinicius Silva",
+    "nameNumber": "986547885224",
+    "caracterSpecial": "@#$%&*",
+    "maxNumber": "123456789101112131415",
+    "minNumber": "123",
+    "inputNumber": "11986427140",
+    "phone": "letraNoNumero"
+  },
+
+  "caracterName": {
+    "name": "V!n!c!@$ M#&*#"
+  }
+
+
+
+}
