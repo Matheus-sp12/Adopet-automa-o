@@ -1,7 +1,7 @@
 import LoginPage from "../../pages/LoginPage";
 import RegisterUser from "../../pages/RegisterUse";
 
-describe("Fluxo para testar o login", () => {
+describe("Fluxo para testar o cadastro de novas contas", () => {
   let loginData;
 
   beforeEach(() => {

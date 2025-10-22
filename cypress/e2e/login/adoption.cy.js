@@ -4,7 +4,7 @@ import RegisterUser from "../../pages/RegisterUse";
 import EmailPage from "../../pages/emailSending";
 import adoptionPage from "../../pages/adoptionn";
 
-describe("Fluxo para testar o envio de email", () => {
+describe("Fluxo para testar a adoção", () => {
   let loginData;
 
   beforeEach(() => {
