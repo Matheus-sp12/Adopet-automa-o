@@ -66,7 +66,7 @@ Os testes foram executados por meio da pipeline do VS Code, utilizando o comando
 
 - Status final: ✅ Todos os testes passaram com sucesso
 
-📎 [Baixar cenários de teste (PDF)](./screen/testRun.png)
+📎 [Automação rodando na pipeline (PDF)](./screen/testRun.png)
 
 🧠 Conclusão
 
