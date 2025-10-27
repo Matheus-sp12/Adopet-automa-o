@@ -5,10 +5,10 @@ Projeto desenvolvido com o objetivo de estudar automações utilizando o Cypress
 ## 📋 Descrição
 Para a escrita dos cenários de teste, utilizei a plataforma Qase, onde cadastrei todos os fluxos do projeto com o objetivo de definir um caminho estruturado para a automação. Caso haja interesse em validar os cenários, deixei anexo abaixo o PDF exportado do Qase contendo todos os cenários de teste.
 
-📎 [Baixar cenários de teste (PDF)](./screen/ADOPET-2025-10-27.pdf)
+📎 [Baixar cenários de teste (PDF)](https://app.qase.io/print/project/ADOPET?filter=%7B%7D&sort_by=id)
 
 
-🎯 Principais Objetivos da Automação – Projeto ADO PET
+🎯 Principais Objetivos da Automação – Projeto ADOPET
 
 🧩 1. Conecte-se (Login)
 
